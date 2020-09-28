@@ -1,0 +1,39 @@
+{
+  "name": "cardly",
+  "version": "1.0.0",
+  "description": "Card reminder",
+  "main": "src/index.js",
+  "author": {
+    "name": "Henry Barreto",
+    "email": "contato@henrybarreto.dev"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "jest --watchAll",
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "esdoc": "^1.1.0",
+    "eslint": "^7.9.0",
+    "eslint-config-google": "^0.14.0",
+    "jest": "^26.4.2",
+    "jsdoc": "^3.6.6",
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "@koa/multer": "^3.0.0",
+    "@koa/router": "^9.4.0",
+    "esdoc-standard-plugin": "^1.0.0",
+    "koa": "^2.13.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-json": "^2.0.2",
+    "koa-logger": "^3.2.1",
+    "multer": "^1.4.2",
+    "sequelize": "^6.3.5",
+    "sqlite3": "^5.0.0"
+  }
+}

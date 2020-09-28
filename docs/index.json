@@ -1,0 +1,1176 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/api/api.js",
+    "content": "import Router from '@koa/router';\nimport CardRoutes from './card.js';\nimport DeckRoutes from './deck.js';\n\nconst router = new Router();\nrouter.use(CardRoutes.routes());\nrouter.use(DeckRoutes.routes());\n\nexport default router;\n",
+    "static": true,
+    "longname": "/home/ruan/Documentos/Dev/Github/cardly/src/api/api.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "file",
+    "name": "src/api/card.js",
+    "content": "import Router from '@koa/router';\nimport CardController from '../controllers/card.js';\nimport CardCore from '../core/card.js';\n\nconst router = new Router();\nconst controller = new CardController(new CardCore());\n\nrouter.post('card', controller.path.post, controller.createCard);\nrouter.get('card', controller.path.get, controller.readCard);\nrouter.put('card', controller.path.put, controller.updateCard);\nrouter.delete('card', controller.path.delete, controller.deleteCard);\n\nexport default router;\n",
+    "static": true,
+    "longname": "/home/ruan/Documentos/Dev/Github/cardly/src/api/card.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 50,
+    "kind": "variable",
+    "name": "controller",
+    "memberof": "src/api/card.js",
+    "static": true,
+    "longname": "src/api/card.js~controller",
+    "access": "public",
+    "export": false,
+    "importPath": "cardly/src/api/card.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "src/controllers/card.js~CardController"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 51,
+    "kind": "file",
+    "name": "src/api/deck.js",
+    "content": "import Router from '@koa/router';\nimport DeckController from '../controllers/deck.js';\nimport DeckCore from '../core/deck.js';\n\nconst router = new Router();\nconst controller = new DeckController(new DeckCore());\n\nrouter.post('deck', controller.path.post, controller.createDeck);\nrouter.get('deck', controller.path.get, controller.readDeck);\nrouter.put('deck', controller.path.put, controller.updateDeck);\nrouter.delete('deck', controller.path.delete, controller.deleteDeck);\n\nexport default router;\n",
+    "static": true,
+    "longname": "/home/ruan/Documentos/Dev/Github/cardly/src/api/deck.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 52,
+    "kind": "variable",
+    "name": "controller",
+    "memberof": "src/api/deck.js",
+    "static": true,
+    "longname": "src/api/deck.js~controller",
+    "access": "public",
+    "export": false,
+    "importPath": "cardly/src/api/deck.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "src/controllers/deck.js~DeckController"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 53,
+    "kind": "file",
+    "name": "src/controllers/card.js",
+    "content": "/**\n * Controlling request and response data from Koa.js router\n */\nclass CardController {\n  /**\n   * Reciving depencies\n   * @param {CardCore} cardCore;\n   */\n  constructor(cardCore) {\n    this.core = cardCore;\n    this.path = {\n      get: '/cards/:card',\n      post: '/card',\n      put: '/card/:card',\n      delete: '/card/:card',\n    };\n\n    this.createCard = this.createCard.bind(this);\n  }\n  /**\n   * Creating a card\n   * @param {Context} context\n   */\n  async createCard(context) {\n    try {\n      const cardInfo = context.request.body;\n      const cardFront = cardInfo.front;\n      const cardBack = cardInfo.back;\n      const cardDeck = cardInfo.deckId;\n      const card = await this.core.createCard(cardFront, cardBack, cardDeck);\n      console.log(card);\n      context.body = card;\n    } catch (error) {\n      context.body = {msg: 'Error!'};\n      console.error(error);\n    }\n  }\n}\n\nexport default CardController;\n",
+    "static": true,
+    "longname": "/home/ruan/Documentos/Dev/Github/cardly/src/controllers/card.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 54,
+    "kind": "class",
+    "name": "CardController",
+    "memberof": "src/controllers/card.js",
+    "static": true,
+    "longname": "src/controllers/card.js~CardController",
+    "access": "public",
+    "export": true,
+    "importPath": "cardly/src/controllers/card.js",
+    "importStyle": "CardController",
+    "description": "Controlling request and response data from Koa.js router",
+    "lineNumber": 4,
+    "interface": false
+  },
+  {
+    "__docId__": 55,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/controllers/card.js~CardController",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/controllers/card.js~CardController#constructor",
+    "access": "public",
+    "description": "Reciving depencies",
+    "lineNumber": 9,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "CardCore"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "cardCore;",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "__docId__": 56,
+    "kind": "member",
+    "name": "core",
+    "memberof": "src/controllers/card.js~CardController",
+    "static": false,
+    "longname": "src/controllers/card.js~CardController#core",
+    "access": "public",
+    "description": null,
+    "lineNumber": 10,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 57,
+    "kind": "member",
+    "name": "path",
+    "memberof": "src/controllers/card.js~CardController",
+    "static": false,
+    "longname": "src/controllers/card.js~CardController#path",
+    "access": "public",
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"get\": string, \"post\": string, \"put\": string, \"delete\": string}"
+      ]
+    }
+  },
+  {
+    "__docId__": 59,
+    "kind": "method",
+    "name": "createCard",
+    "memberof": "src/controllers/card.js~CardController",
+    "generator": false,
+    "async": true,
+    "static": false,
+    "longname": "src/controllers/card.js~CardController#createCard",
+    "access": "public",
+    "description": "Creating a card",
+    "lineNumber": 24,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Context"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "context",
+        "description": ""
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 60,
+    "kind": "file",
+    "name": "src/controllers/deck.js",
+    "content": "/**\n * Controlling request and response data from Koa.js router\n */\nclass DeckController {\n  /**\n   * Reciving depencies\n   * @param {DeckCore} deckCore\n   */\n  constructor(deckCore) {\n    this.core = deckCore;\n    this.path = {\n      get: '/decks/:deck',\n      post: '/deck',\n      put: '/deck/:deck',\n      delete: '/deck/:deck',\n    };\n\n    this.createDeck = this.createDeck.bind(this);\n  }\n  /**\n   * Creating deck\n   * @param {Context} context\n   */\n  async createDeck(context) {\n    console.log(context);\n    try {\n      const deckInfo = context.request.body;\n      const deckName = deckInfo.name;\n      const deck = await this.core.createDeck(deckName);\n      context.response.body = deck;\n    } catch (error) {\n      console.error(error);\n    }\n  }\n}\n\nexport default DeckController;\n",
+    "static": true,
+    "longname": "/home/ruan/Documentos/Dev/Github/cardly/src/controllers/deck.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 61,
+    "kind": "class",
+    "name": "DeckController",
+    "memberof": "src/controllers/deck.js",
+    "static": true,
+    "longname": "src/controllers/deck.js~DeckController",
+    "access": "public",
+    "export": true,
+    "importPath": "cardly/src/controllers/deck.js",
+    "importStyle": "DeckController",
+    "description": "Controlling request and response data from Koa.js router",
+    "lineNumber": 4,
+    "interface": false
+  },
+  {
+    "__docId__": 62,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/controllers/deck.js~DeckController",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/controllers/deck.js~DeckController#constructor",
+    "access": "public",
+    "description": "Reciving depencies",
+    "lineNumber": 9,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "DeckCore"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "deckCore",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "__docId__": 63,
+    "kind": "member",
+    "name": "core",
+    "memberof": "src/controllers/deck.js~DeckController",
+    "static": false,
+    "longname": "src/controllers/deck.js~DeckController#core",
+    "access": "public",
+    "description": null,
+    "lineNumber": 10,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 64,
+    "kind": "member",
+    "name": "path",
+    "memberof": "src/controllers/deck.js~DeckController",
+    "static": false,
+    "longname": "src/controllers/deck.js~DeckController#path",
+    "access": "public",
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"get\": string, \"post\": string, \"put\": string, \"delete\": string}"
+      ]
+    }
+  },
+  {
+    "__docId__": 66,
+    "kind": "method",
+    "name": "createDeck",
+    "memberof": "src/controllers/deck.js~DeckController",
+    "generator": false,
+    "async": true,
+    "static": false,
+    "longname": "src/controllers/deck.js~DeckController#createDeck",
+    "access": "public",
+    "description": "Creating deck",
+    "lineNumber": 24,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Context"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "context",
+        "description": ""
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 67,
+    "kind": "file",
+    "name": "src/core/card.js",
+    "content": "import CardModel from '../database/models/card.js';\n/**\n * Bussiness logic of card\n */\nclass CardCore {\n  /**\n   * Set the class variables and binding\n   */\n  constructor() {\n    this.model = CardModel;\n  }\n  /**\n   * Create a card on database\n   * @param {string} cardFront\n   * @param {string} cardBack\n   * @param {number} cardDeck\n   */\n  async createCard(cardFront, cardBack, cardDeck) {\n    const card = await this.model.create(\n        {front: cardFront, back: cardBack, deckId: cardDeck});\n    return card;\n  }\n}\n\nexport default CardCore;\n",
+    "static": true,
+    "longname": "/home/ruan/Documentos/Dev/Github/cardly/src/core/card.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 68,
+    "kind": "class",
+    "name": "CardCore",
+    "memberof": "src/core/card.js",
+    "static": true,
+    "longname": "src/core/card.js~CardCore",
+    "access": "public",
+    "export": true,
+    "importPath": "cardly/src/core/card.js",
+    "importStyle": "CardCore",
+    "description": "Bussiness logic of card",
+    "lineNumber": 5,
+    "interface": false
+  },
+  {
+    "__docId__": 69,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/core/card.js~CardCore",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/core/card.js~CardCore#constructor",
+    "access": "public",
+    "description": "Set the class variables and binding",
+    "lineNumber": 9
+  },
+  {
+    "__docId__": 70,
+    "kind": "member",
+    "name": "model",
+    "memberof": "src/core/card.js~CardCore",
+    "static": false,
+    "longname": "src/core/card.js~CardCore#model",
+    "access": "public",
+    "description": null,
+    "lineNumber": 10,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 71,
+    "kind": "method",
+    "name": "createCard",
+    "memberof": "src/core/card.js~CardCore",
+    "generator": false,
+    "async": true,
+    "static": false,
+    "longname": "src/core/card.js~CardCore#createCard",
+    "access": "public",
+    "description": "Create a card on database",
+    "lineNumber": 18,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "cardFront",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "cardBack",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "number"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "cardDeck",
+        "description": ""
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 72,
+    "kind": "file",
+    "name": "src/core/deck.js",
+    "content": "import DeckModel from '../database/models/deck.js';\n/**\n * Bussiness logic of deck\n */\nclass DeckCore {\n  /**\n   * Set the class variables and binding\n   */\n  constructor() {\n    this.model = DeckModel;\n  }\n  /**\n   * Create a deck on database\n   * @param {string} name\n   */\n  async createDeck(name) {\n    const deck = await this.model.create({name: name});\n    return deck;\n  }\n}\n\nexport default DeckCore;\n",
+    "static": true,
+    "longname": "/home/ruan/Documentos/Dev/Github/cardly/src/core/deck.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 73,
+    "kind": "class",
+    "name": "DeckCore",
+    "memberof": "src/core/deck.js",
+    "static": true,
+    "longname": "src/core/deck.js~DeckCore",
+    "access": "public",
+    "export": true,
+    "importPath": "cardly/src/core/deck.js",
+    "importStyle": "DeckCore",
+    "description": "Bussiness logic of deck",
+    "lineNumber": 5,
+    "interface": false
+  },
+  {
+    "__docId__": 74,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/core/deck.js~DeckCore",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/core/deck.js~DeckCore#constructor",
+    "access": "public",
+    "description": "Set the class variables and binding",
+    "lineNumber": 9
+  },
+  {
+    "__docId__": 75,
+    "kind": "member",
+    "name": "model",
+    "memberof": "src/core/deck.js~DeckCore",
+    "static": false,
+    "longname": "src/core/deck.js~DeckCore#model",
+    "access": "public",
+    "description": null,
+    "lineNumber": 10,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 76,
+    "kind": "method",
+    "name": "createDeck",
+    "memberof": "src/core/deck.js~DeckCore",
+    "generator": false,
+    "async": true,
+    "static": false,
+    "longname": "src/core/deck.js~DeckCore#createDeck",
+    "access": "public",
+    "description": "Create a deck on database",
+    "lineNumber": 16,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "name",
+        "description": ""
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 77,
+    "kind": "file",
+    "name": "src/database/connection.js",
+    "content": "import Sequelize from 'sequelize';\n\nconst sequelize = new Sequelize('sqlite::memory:');\n\nsequelize.sync({force: true});\nexport default sequelize;\n",
+    "static": true,
+    "longname": "/home/ruan/Documentos/Dev/Github/cardly/src/database/connection.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 78,
+    "kind": "file",
+    "name": "src/database/models/card.js",
+    "content": "import sequelize from '../connection.js';\nimport Sequelize from 'sequelize';\n\nconst CardModel = sequelize.define('card', {\n  id: {\n    type: Sequelize.INTEGER,\n    primaryKey: true,\n    allowNull: false,\n    autoIncrement: true,\n    allowNull: false,\n  },\n  front: {\n    type: Sequelize.STRING,\n    allowNull: false,\n  },\n  back: {\n    type: Sequelize.STRING,\n    allowNull: false,\n  },\n  difficult: {\n    type: Sequelize.NUMBER,\n    defaultValue: 0,\n  },\n});\n\nexport default CardModel;\n",
+    "static": true,
+    "longname": "/home/ruan/Documentos/Dev/Github/cardly/src/database/models/card.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 79,
+    "kind": "variable",
+    "name": "CardModel",
+    "memberof": "src/database/models/card.js",
+    "static": true,
+    "longname": "src/database/models/card.js~CardModel",
+    "access": "public",
+    "export": true,
+    "importPath": "cardly/src/database/models/card.js",
+    "importStyle": "CardModel",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 80,
+    "kind": "file",
+    "name": "src/database/models/deck.js",
+    "content": "import sequelize from '../connection.js';\nimport Sequelize from 'sequelize';\n\nimport CardModel from './card.js';\n\nconst DeckModel = sequelize.define('deck', {\n  id: {\n    type: Sequelize.INTEGER,\n    primaryKey: true,\n    allowNull: false,\n    autoIncrement: true,\n    allowNull: false,\n  },\n  name: {\n    type: Sequelize.STRING,\n  },\n});\n\nDeckModel.hasMany(CardModel);\n\nexport default DeckModel;\n",
+    "static": true,
+    "longname": "/home/ruan/Documentos/Dev/Github/cardly/src/database/models/deck.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 81,
+    "kind": "variable",
+    "name": "DeckModel",
+    "memberof": "src/database/models/deck.js",
+    "static": true,
+    "longname": "src/database/models/deck.js~DeckModel",
+    "access": "public",
+    "export": true,
+    "importPath": "cardly/src/database/models/deck.js",
+    "importStyle": "DeckModel",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 82,
+    "kind": "file",
+    "name": "src/index.js",
+    "content": "import Koa from 'koa';\nimport logger from 'koa-logger';\nimport json from 'koa-json';\nimport bodyparser from 'koa-bodyparser';\n\nconst app = new Koa();\n\napp.use(logger());\napp.use(json());\napp.use(bodyparser());\n\nimport router from './api/api.js';\napp.use(router.routes());\napp.use(router.allowedMethods());\n\napp.listen(3000);\n",
+    "static": true,
+    "longname": "/home/ruan/Documentos/Dev/Github/cardly/src/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 83,
+    "kind": "variable",
+    "name": "app",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~app",
+    "access": "public",
+    "export": false,
+    "importPath": "cardly",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "kind": "index",
+    "content": "",
+    "longname": "/home/ruan/Documentos/Dev/Github/cardly/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"cardly\",\n  \"version\": \"1.0.0\",\n  \"description\": \"\",\n  \"main\": \"src/index.js\",\n  \"author\": {\n    \"name\": \"Henry Barreto\",\n    \"email\": \"contato@henrybarreto.dev\"\n  },\n  \"type\": \"module\",\n  \"scripts\": {\n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\",\n    \"dev\": \"nodemon src/index.js\",\n    \"start\": \"node src/index.js\"\n  },\n  \"keywords\": [],\n  \"license\": \"ISC\",\n  \"devDependencies\": {\n    \"dotenv\": \"^8.2.0\",\n    \"esdoc\": \"^1.1.0\",\n    \"eslint\": \"^7.9.0\",\n    \"eslint-config-google\": \"^0.14.0\",\n    \"jest\": \"^26.4.2\",\n    \"jsdoc\": \"^3.6.6\",\n    \"nodemon\": \"^2.0.4\"\n  },\n  \"dependencies\": {\n    \"@koa/multer\": \"^3.0.0\",\n    \"@koa/router\": \"^9.4.0\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"koa\": \"^2.13.0\",\n    \"koa-bodyparser\": \"^4.3.0\",\n    \"koa-json\": \"^2.0.2\",\n    \"koa-logger\": \"^3.2.1\",\n    \"multer\": \"^1.4.2\",\n    \"sequelize\": \"^6.3.5\",\n    \"sqlite3\": \"^5.0.0\"\n  }\n}\n",
+    "longname": "/home/ruan/Documentos/Dev/Github/cardly/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]

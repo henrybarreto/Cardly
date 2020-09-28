@@ -1,0 +1,72 @@
+{
+  "coverage": "52.17%",
+  "expectCount": 23,
+  "actualCount": 12,
+  "files": {
+    "src/api/card.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        6
+      ]
+    },
+    "src/api/deck.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        6
+      ]
+    },
+    "src/controllers/card.js": {
+      "expectCount": 5,
+      "actualCount": 3,
+      "undocumentLines": [
+        10,
+        11
+      ]
+    },
+    "src/controllers/deck.js": {
+      "expectCount": 5,
+      "actualCount": 3,
+      "undocumentLines": [
+        10,
+        11
+      ]
+    },
+    "src/core/card.js": {
+      "expectCount": 4,
+      "actualCount": 3,
+      "undocumentLines": [
+        10
+      ]
+    },
+    "src/core/deck.js": {
+      "expectCount": 4,
+      "actualCount": 3,
+      "undocumentLines": [
+        10
+      ]
+    },
+    "src/database/models/card.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        4
+      ]
+    },
+    "src/database/models/deck.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        6
+      ]
+    },
+    "src/index.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        6
+      ]
+    }
+  }
+}
